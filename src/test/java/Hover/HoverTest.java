@@ -1,6 +1,4 @@
 package Hover;
-
-import Pages.HoverPage;
 import base.BaseTests;
 import org.testng.Assert;
 import org.testng.annotations.Test;

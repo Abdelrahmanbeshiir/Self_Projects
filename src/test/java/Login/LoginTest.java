@@ -1,6 +1,4 @@
 package Login;
-
-import Pages.HomePage;
 import Pages.LoginPage;
 import Pages.SecureAreaPage;
 import base.BaseTests;

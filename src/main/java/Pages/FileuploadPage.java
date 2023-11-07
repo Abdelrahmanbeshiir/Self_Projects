@@ -1,8 +1,6 @@
 package Pages;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-
 public class FileuploadPage {
     private WebDriver driver;
     private By fileupload= By.id("file-upload");

@@ -1,6 +1,4 @@
 package DropDownListTest;
-
-import Pages.HomePage;
 import base.BaseTests;
 import org.testng.Assert;
 import org.testng.annotations.Test;
